@@ -1,0 +1,1 @@
+A simple Library Management System built to manage books, authors, users, and borrowing details efficiently. This project helps librarians maintain records and perform operations like adding books, and viewing reports.
