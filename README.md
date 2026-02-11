@@ -18,7 +18,6 @@ Author_code number(5) PRIMARY KEY,
 Author_name varchar2(20) NOT NULL , 
 Contact_no varchar2(10));
  
- DROP TABLE AUTHOR_TBL;
 
 INSERT INTO AUTHOR_TBL (Author_code, Author_name, Contact_no)
 VALUES (1, 'Robin Sharma', '8800799224');
