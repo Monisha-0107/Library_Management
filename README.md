@@ -12,7 +12,7 @@ A simple Library Management System built to manage books, authors, users, and bo
 <img width="525" height="364" alt="image" src="https://github.com/user-attachments/assets/4e1f4a0d-cd6e-4330-a7aa-bb8a339e5d08" />
 
 
-QUERY
+    QUERY
 Create table AUTHOR_TBL (
 Author_code number(5) PRIMARY KEY,
 Author_name varchar2(20) NOT NULL , 
